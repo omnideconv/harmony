@@ -112,7 +112,7 @@ that have batch variables values matching reference_values will not be moved}
 to try Harmony with multiple parameters and save them as e.g.
 'harmony_theta0', 'harmony_theta1', 'harmony_theta2'}
 
-\item{assay.use}{(Seurat V3 only) Which assay to Harmonize with (Default Assay as default).}
+\item{assay.use}{(Seurat V3 only) Which assay to run PCA on if no PCA present?}
 
 \item{project.dim}{Project dimension reduction loadings. Default TRUE.}
 }
