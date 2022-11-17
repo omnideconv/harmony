@@ -39,5 +39,6 @@ Suggests:
     Seurat,
     testthat,
     knitr,
-    rmarkdown
+    rmarkdown, 
+    biocViews
 VignetteBuilder: knitr
